@@ -1,0 +1,4 @@
+C:\Users\RI_FAN\Desktop\QTS TRAINING\EntityFramework\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.csprojAssemblyReference.cache
+C:\Users\RI_FAN\Desktop\QTS TRAINING\EntityFramework\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.AssemblyInfoInputs.cache
+C:\Users\RI_FAN\Desktop\QTS TRAINING\EntityFramework\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.AssemblyInfo.cs
+C:\Users\RI_FAN\Desktop\QTS TRAINING\EntityFramework\EntityFramework\obj\Debug\netcoreapp3.1\EntityFramework.csproj.CoreCompileInputs.cache
